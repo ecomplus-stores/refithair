@@ -1,24 +1,24 @@
 {
-  "store_id": 3917,
-  "name": "refithair",
   "domain": "refithair.netlify.app",
-  "short_name": "refithair",
-  "description": "refithair",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-gray"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/refithair",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Refit Hair - Renovando a beleza que há em você!",
+  "short_name": "Refit Hair",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/refithair"
+  "secondary_color": "#bda775",
+  "icon": "/img/icon.png",
+  "store_id": 3917,
+  "description": "refithair",
+  "large_icon": "/img/large-icon.png"
 }
