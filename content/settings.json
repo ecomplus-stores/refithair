@@ -1,10 +1,10 @@
 {
   "domain": "refithair.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#000000",
+  "primary_color": "#bfa67e",
   "theme": {
-    "bootswatch": "_",
-    "custom": "clean-gray"
+    "bootswatch": "darkly",
+    "custom": "clean-dark"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/refithair",
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#bda775",
+  "secondary_color": "#333333",
   "icon": "/img/icon.png",
   "store_id": 3917,
   "description": "Somos a Refit Hair!",
