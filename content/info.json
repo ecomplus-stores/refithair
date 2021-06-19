@@ -1,14 +1,14 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entrega para todo o Brasil"
   },
   "installments": {
     "show": true,
     "text": "Parcele sem juros"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
