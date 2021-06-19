@@ -3,12 +3,33 @@
   "meta_description": "Renovando a beleza que há em você!",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner_superior_refit.png"
+      "type": "banner-slider",
+      "autoplay": 5000,
+      "slides": [
+        {
+          "start": "2021-06-19T04:54:54.875Z",
+          "end": "2021-06-19T04:54:54.905Z",
+          "img": "/img/uploads/banner_superior_refit.png"
+        }
+      ]
     },
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/og-image.png"
+        },
+        {
+          "img": "/img/uploads/og-image.png"
+        },
+        {
+          "img": "/img/uploads/og-image.png"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -17,8 +38,8 @@
       "limit": 10,
       "page": 1,
       "sort": "news",
-      "title": "Últimos Lançamentos",
-      "headless": false
+      "title": "",
+      "headless": true
     }
   ]
 }
