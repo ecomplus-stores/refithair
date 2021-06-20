@@ -4,13 +4,12 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 5000,
+      "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-06-19T04:54:54.875Z",
-          "end": "2021-06-19T04:54:54.905Z",
-          "img": "/img/uploads/banner_superior_refit.png",
-          "link": "#"
+          "start": "2021-06-20T12:03:16.016Z",
+          "end": "2021-06-20T12:03:16.035Z",
+          "img": "/img/uploads/banner2.png"
         }
       ]
     },
