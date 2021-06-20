@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#bfa67e",
   "theme": {
-    "bootswatch": "darkly",
-    "custom": "clean-gray"
+    "bootswatch": "_",
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/refithair",
