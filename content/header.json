@@ -4,12 +4,7 @@
     "link": ""
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Home",
-        "link": "https://refithair.netlify.app/"
-      }
-    ],
+    "pages": [],
     "phone_wpp": false,
     "socials": false
   },
