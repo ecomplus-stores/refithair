@@ -10,8 +10,8 @@
         "link": "https://refithair.netlify.app/"
       }
     ],
-    "phone_wpp": true,
-    "socials": true
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
     "featured": [
@@ -19,7 +19,7 @@
       "/balm-redutor?Balm Redutor"
     ],
     "random": 6,
-    "full_width": true
+    "full_width": false
   },
   "search_input": true
 }
