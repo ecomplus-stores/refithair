@@ -5,16 +5,16 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
+    "title": "Sobre",
     "list": []
   },
   "links_2": {
     "list_categories": true,
-    "title": "Categorias",
+    "title": "Produtos",
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "Contato",
     "phone_wpp": true,
     "socials": true,
     "email": true,
@@ -27,20 +27,21 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
     "banrisul": false,
     "elo": true,
-    "hipercard": false,
+    "hipercard": true,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
-    "mais": false,
+    "mais": true,
+    "amex": true,
     "itau": true
   },
-  "credits": ""
+  "credits": "© Refit Hair - Renovando a beleza que há em você!"
 }
