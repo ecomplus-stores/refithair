@@ -9,7 +9,7 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/refithair",
   "logo": "/img/uploads/reift_logo_site.png",
-  "name": "Refit Hair - Renovando a beleza que há em você!",
+  "name": "Refit Hair",
   "short_name": "Refit Hair",
   "lang": "pt_br",
   "currency": "BRL",
@@ -19,6 +19,6 @@
   "secondary_color": "#bfa67e",
   "icon": "/img/uploads/refit_hair_logo.png",
   "store_id": 3917,
-  "description": "Somos a Refit Hair!",
+  "description": "Renovando a beleza que há em você!",
   "large_icon": "/img/uploads/refit_hair_logo.png"
 }
