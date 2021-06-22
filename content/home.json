@@ -3,9 +3,15 @@
   "meta_description": "Renovando a beleza que há em você!",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner_superior_refit.png",
-      "mobile_img": "/img/uploads/og-image.png"
+      "type": "banner-slider",
+      "autoplay": 0,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_superior_refit.png"
+        }
+      ]
     },
     {
       "type": "banners-grid",
