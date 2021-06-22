@@ -9,12 +9,14 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/bannerrf1.png"
+          "img": "/img/uploads/bannerrf1.png",
+          "mobile_img": "/img/uploads/bannerrf1mobile.png"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/bannerrf3.png"
+          "img": "/img/uploads/bannerrf3.png",
+          "mobile_img": "/img/uploads/bannerrf3mobile.png"
         }
       ]
     },
