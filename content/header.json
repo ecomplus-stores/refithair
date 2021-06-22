@@ -12,11 +12,12 @@
   },
   "categories_list": {
     "featured": [
-      "/anti-residuo?Anti-resíduo",
-      "/balm-redutor?Balm Redutor"
+      "/anti-residuo?Hidratação",
+      "/balm-redutor?Nutrição",
+      "/reconstrucao?Reconstrução"
     ],
-    "random": 6,
-    "full_width": true
+    "random": 0,
+    "full_width": false
   },
   "search_input": true
 }
