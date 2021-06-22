@@ -1,5 +1,5 @@
 {
-  "trigger": "60d25089d24de4526fab5fde",
-  "resource": "products",
-  "slug": "produto-teste"
+  "trigger": "60d252c0d24de4526fab625f",
+  "resource": "categories",
+  "slug": "balm-redutor"
 }
