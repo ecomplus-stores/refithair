@@ -4,12 +4,17 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 1000,
       "slides": [
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner_superior_refit.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/rect8589.png"
         }
       ]
     },
