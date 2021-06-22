@@ -22,13 +22,13 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/bannerbtx.png"
+          "img": "/img/uploads/bannerrpd.png"
         },
         {
-          "img": "/img/uploads/bannerrepd.png"
+          "img": "/img/uploads/bannerkt.png"
         },
         {
-          "img": "/img/uploads/bannerkits.png"
+          "img": "/img/uploads/bannerbto.png"
         }
       ]
     },
