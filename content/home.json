@@ -22,10 +22,13 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/bannerkit1.png"
+          "img": "/img/uploads/bannerbtx.png"
         },
         {
-          "img": "/img/uploads/bannerbotox.png"
+          "img": "/img/uploads/bannerrepd.png"
+        },
+        {
+          "img": "/img/uploads/bannerkits.png"
         }
       ]
     },
