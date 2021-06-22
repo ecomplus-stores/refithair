@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".btn-primary {\ncolor: #fff;\nbackground-color: #66DE93\n}",
   "html_head": "",
   "html_body": ""
 }
