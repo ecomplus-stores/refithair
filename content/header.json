@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "UM NOVO SITE PRA VOCÊ!",
+    "text": "Um novo site pra você curtir as melhores ofertas!",
     "link": "",
     "color": "#ffffff",
-    "background": "#444444"
+    "background": "#000000"
   },
   "contacts_stripe": {
     "pages": [],
