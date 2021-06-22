@@ -33,15 +33,15 @@
     "aura": false,
     "banrisul": false,
     "elo": true,
-    "hipercard": true,
+    "hipercard": false,
     "hsbc": false,
     "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
-    "mais": true,
-    "amex": true,
-    "itau": true
+    "mais": false,
+    "amex": false,
+    "itau": false
   },
   "credits": "© Refit Hair - Renovando a beleza que há em você!"
 }
