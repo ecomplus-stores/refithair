@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 6000,
+      "autoplay": 10000,
       "slides": [
         {
           "start": "",
@@ -14,7 +14,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/bannerrf2.png"
+          "img": "/img/uploads/bannerrf3.png"
         }
       ]
     },
