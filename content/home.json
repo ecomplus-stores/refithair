@@ -49,6 +49,14 @@
       "sort": "news",
       "title": "Últimos Lançamentos ❤",
       "headless": false
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 4,
+      "page": 1,
+      "sort": "news",
+      "headless": true
     }
   ]
 }
