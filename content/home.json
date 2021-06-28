@@ -24,13 +24,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/bannerrpd.png"
+          "img": "/img/uploads/bannerrpd.png",
+          "link": "https://refithair.com.br/reparador-de-pontas-teste",
+          "alt": "Reparador de Pontas Refit Hair"
         },
         {
-          "img": "/img/uploads/bannerkt.png"
+          "img": "/img/uploads/bannerkt.png",
+          "link": "https://refithair.com.br/kits-refit",
+          "alt": "Kits Refit Hair"
         },
         {
-          "img": "/img/uploads/bannerbto.png"
+          "img": "/img/uploads/bannerbto.png",
+          "link": "https://refithair.com.br/botoxcapilar",
+          "alt": "Botox SOS 3D sem Formol"
         }
       ]
     },
