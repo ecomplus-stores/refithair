@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.e80633786d7ee02a8b6e58b40f87826e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.f31d7271dbe9ee525ffba7303cfc85cc.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.c19c1acbc945919281dadf32df7152aa.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.178b8a7458d8d898657de1c6a14270e6.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.aefa30df6fe82ee7ef25013f8fdc89ac.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Refit Hair",
+  "short_name": "Refit Hair",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Renovando a beleza que há em você!",
+  "background_color": "#ffffff",
+  "theme_color": "#bfa67e"
+}
